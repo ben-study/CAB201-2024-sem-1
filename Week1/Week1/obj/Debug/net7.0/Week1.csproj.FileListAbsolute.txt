@@ -1,0 +1,15 @@
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/bin/Debug/net7.0/Week1
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/bin/Debug/net7.0/Week1.deps.json
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/bin/Debug/net7.0/Week1.runtimeconfig.json
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/bin/Debug/net7.0/Week1.dll
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/bin/Debug/net7.0/Week1.pdb
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/obj/Debug/net7.0/Week1.csproj.AssemblyReference.cache
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/obj/Debug/net7.0/Week1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/obj/Debug/net7.0/Week1.AssemblyInfoInputs.cache
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/obj/Debug/net7.0/Week1.AssemblyInfo.cs
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/obj/Debug/net7.0/Week1.csproj.CoreCompileInputs.cache
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/obj/Debug/net7.0/Week1.dll
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/obj/Debug/net7.0/refint/Week1.dll
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/obj/Debug/net7.0/Week1.pdb
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/obj/Debug/net7.0/Week1.genruntimeconfig.cache
+/Users/bensimmers/Documents/Work/qut-cab201/CAB201-2024-sem-1/Week1/Week1/obj/Debug/net7.0/ref/Week1.dll
