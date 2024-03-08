@@ -9,7 +9,7 @@ class Program
         // Q1();
         // Q2();
         // Q3();
-        // Q4();
+        Q4();
     }
 
     static void Q1()
@@ -127,7 +127,7 @@ class Program
 
             if (int.TryParse(userInput, out var currentVal))
             {
-                runningTotal += currentVal;
+                runningTotal += currentVal; // runningTotal = runningTotal + currentVal
             }
         }
 
@@ -148,14 +148,17 @@ class Program
         string? userInput = Console.ReadLine();
         decimal limit = decimal.Parse(userInput!);
 
+        // decimal factorial = 1;
+        //
+        // for (decimal i = limit - 1; i > 0; i--)
+        // {
+        //     factorial *= i;
+        // }
 
-        for (decimal i = limit - 1; i > 0; i--)
-        {
-            limit *= i;
-        }
 
-        // or we can use the function written below
-        // decimal factorial = Factorial(limit);
+        // or //
+        decimal factorial = Factorial(limit); // call the Factorial function    
+        
 
 
         // Keep the following lines intact
@@ -163,15 +166,9 @@ class Program
         Console.WriteLine("===========================");
     }
 
-    decimal Factorial(decimal n)
+    static decimal Factorial(decimal n)
     {
         if (n == 0) return 1;
         return n * Factorial(n - 1);
-    }
-
-    static int fizzBuzz(int n)
-    {
-        // Write your code here
-        return 0;
     }
 }
